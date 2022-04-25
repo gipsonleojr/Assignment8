@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(57, 41, 231);
+    background-image: url(Space_Shuttle_Wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size:cover
+  }
+  h1 {
+    color: rgb(229, 162, 17);
+  }
+  h2 {
+    color: crimson;
+  }
+  p {
+    font: 15px Arial, sans-serif;
+    color: rgb(240, 0, 0);
+  }
